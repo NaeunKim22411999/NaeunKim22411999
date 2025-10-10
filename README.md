@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋  
+저는 김나은입니다!
 
-<!--
-**NaeunKim22411999/NaeunKim22411999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 전공: 컴퓨터공학  
+- 🌱 배우는 중: 컴퓨터 구조, HDL  
+- 🎵 좋아하는 것: K-pop (특히 NCT 💚)  
+- ☕ 주말엔 카페에서 일하고 있어요 (11시간 😅)  
+- ✨ 목표: 하드웨어와 소프트웨어 모두 잘 다루는 개발자 되기
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 현재 하고 있는 것
+- HDL로 RAM, PC, ALU 설계 연습  
+- GitHub에 학습 프로젝트 정리
+
+### 🌱 배우는 중
+- 컴퓨터 구조 & 디지털 회로  
+- C++, Python
+
+### 📫 연락 방법
+- 이메일: naeun@example.com (실제 이메일로 바꿔주세요)  
+
+### ⚡ Fun fact
+- NCT 덕후 💚  
+- 카페에서 일하면 집중력이 2배 🚀
