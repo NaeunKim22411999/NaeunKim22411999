@@ -47,4 +47,4 @@ I value **comfort, stability, and living responsibly**, and try to reflect these
 
 ### 📫 연락처
 - 이메일: [skssksk54723@naver.com]  
-- 깃허브: [NaeunKim22411999](https://github.com/NaeunKim22411999)
+- 깃허브: [NaeunKim22411999](https://github.com/NaeunKim22411999) ..
